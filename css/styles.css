@@ -9,9 +9,9 @@ a {
     text-decoration: none;
 }
 
-img {
+/* img {
     width: 100%;
-}
+} */
 
 .hero {
     background-image: url(../img/cover.jpg);
@@ -29,6 +29,6 @@ img {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: rgba(21, 20, 51, 0.8);
+    background-color: rgba(21, 20, 51, 0.5);
     z-index: -1;
 }
